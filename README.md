@@ -27,9 +27,17 @@ Este é um aplicativo Java simples que permite pesquisar informações sobre Pok
 ## API usada
 [PokeAPI](https://pokeapi.co/): Uma API gratuita e de código aberto que fornece informações detalhadas sobre Pokémon.
 
+## Licença
+
+Este projeto está licenciado sob a [MIT License](LICENSE).
+
 ## Contribuição
 Contribuições são bem-vindas! Se você tiver sugestões, correções de bugs ou melhorias, sinta-se à vontade para abrir uma issue ou enviar um pull request.
 
 ## Autor
-Seu nome aqui (Magno Alves)
+
+Magno Alves
+
+- GitHub: [MagnoAlves](https://github.com/MagnoAlves)
+- LinkedIn: [Magno Alves](https://www.linkedin.com/in/magno-alves-712b6624b/)
 
